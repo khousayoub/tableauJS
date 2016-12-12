@@ -1,0 +1,8 @@
+
+table thead th, table tbody td, table tfoot td, table {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  border-collapse: collapse;
+    padding: 10px;
+}
